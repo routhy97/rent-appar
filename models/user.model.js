@@ -6,7 +6,6 @@ const schema = new mongoose.Schema({
     //name: {type: String,default: ''},
     password: {type: String, required: true},
 
-
 }, {timestamps: true});
 
 // test commit
